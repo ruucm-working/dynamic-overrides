@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "05455da0-3f3f-445e-8b2c-deb7d6bdae68",
+		"displayName": "Dynamic Overrides"
+	},
+	"author": "a (no-sub) ruucm",
+	"name": "@framer/ruucm-h.dynamic-overrides",
+	"version": "1.0.0"
+}
